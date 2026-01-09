@@ -1,0 +1,5 @@
+{
+  "name": "Admin Command & Control Server",
+  "description": "A core server for a command and control administration service, enabling remote execution of administrative tasks.",
+  "requestFramePermissions": []
+}
